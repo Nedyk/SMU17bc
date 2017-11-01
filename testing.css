@@ -1,0 +1,117 @@
+/*tr{
+	border: "10"
+	width: 100px;
+	height: 100px;
+	background: purple;
+	margin: 0 auto;
+	padding: 50px;
+}*/
+
+/*.MainMenu{
+
+	float: left;
+	clear:both;
+}
+
+.img{
+	width: 15%;
+	height: 5%;
+	float: left;
+	margin: 0 auto;
+	border: "10" ;
+	padding: 20px
+}
+*/
+/*#id{display: inline-block;
+float:left;
+border: "5"
+}*/
+/*.mainMenu{display: block;
+		float: top;
+		top: 0;
+		background-color: blue}*/
+/*header{display: inline-block;
+		background-color: #f9f7f7;
+	float: right;
+top: 0
+border="10";
+padding: 10px 7px;
+clear: left;}}*/
+#MainMenu{
+	   float: left;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+    background-color: #966236;
+
+}
+
+body{background-color: #b5b3b3;
+margin:0 auto;
+max-width: 50%}
+
+.About, .Portfolio, .contact{
+	display: inline-block;
+	float: right;
+	border-bottom: solid 2px;
+	padding: 10px 7px;
+	background-color: white;
+	position: relative;}
+
+.About{
+	background-color: #825732;
+}
+.Portfolio{
+	background-color:#dd8f4d; 
+}
+ 
+.Name{ 
+	display: inline-block;
+	float:left;
+	background-color: #dd8f4d;
+	clear: left;
+	position:static;
+
+	/*position: ;*/
+    left: 0px;
+    top: 0px;
+    z-index:1;
+}
+
+h2{border-bottom: solid 5px;}
+
+.img{
+	background-color: white;
+	float: left; 
+	clear: both;
+	margin: 0;
+}
+/*td, tr{max-width: 50%%
+	border: "10"
+	width: 100px;
+	height: 100px;
+	background: purple;
+	margin-right:  30px;
+	padding: 30px;
+	text-align: center;
+	border: 3px;*/
+}
+td{width: 25%;
+	height: 100px;}
+
+}
+table{max-width: 50%;
+float: left;
+border: 3px solid;
+}
+
+.ContactMe{
+	max-width: 20%;
+	background-color: white; 
+
+}
+label{font-size: 40;
+	background-color:#dd8f4d; 
+	text-align: center;
+}
